@@ -1,4 +1,4 @@
-# PAT Token Smart Contract #
+# Forked from PAT Token Smart Contract #
 
 Standard Token Ethereum Smart Contracts.  Copyright © 2017 by ABDK Consulting.
 
